@@ -15,7 +15,7 @@ and put in practice what I learned.
 Front End: <strong>HTML, CSS, JAVASCRIPT, PYTHON,</strong> <br>
 Back End: <strong>NONE</strong>
 
-## What I'm learning
 
-Front End: <strong> Typescript & React.js/Native </strong> <br>
-Back  End: <strnog> Node.js & Postgress</strong>
+## Some knowledge in technologies
+
+<img src="http://labs.cogumm.net/githubassets/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px"> <img src="http://labs.cogumm.net/githubassets/svg/dev/frameworks/react.svg" alt="react" style="vertical-align:top; margin:4px"> <img src="http://labs.cogumm.net/githubassets/svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:4px"> <img src="http://labs.cogumm.net/githubassets/svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:4px"> <img src="http://labs.cogumm.net/githubassets/svg/dev/services/dockerhub.svg" alt="dockerhub" style="vertical-align:top; margin:4px"> <img src="http://labs.cogumm.net/githubassets/svg/dev/services/npm.svg" alt="npm" style="vertical-align:top; margin:4px"> <img src="http://labs.cogumm.net/githubassets/svg/dev/tools/powershell.svg" alt="powershell" style="vertical-align:top; margin:4px"> <img src="http://labs.cogumm.net/githubassets/svg/dev/tools/bash.svg" alt="bash" style="vertical-align:top; margin:4px">
