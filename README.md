@@ -1,16 +1,13 @@
-### Hi there 👋
+### What's up <i>< Coders /></i>! 👋
+Welcome to my Profile! I'm Felipe from Brazil, I'm a guy that is always try to learn something new <br>
+and put in practice what I learned.
 
-<!--
-**FelipeCostaAraujo/FelipeCostaAraujo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💫Technologies
 
-Here are some ideas to get you started:
+Front End: <strong>HTML, CSS, JAVASCRIPT, PYTHON,</strong> <br>
+Back End: <strong>NONE</strong>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I'm learning
+
+Front End: <strong> Typescript & React.js/Native </strong> <br>
+Back  End: <strnog> Node.js & Postgress</strong>
