@@ -10,13 +10,17 @@
 
 <div>
 <img alt="swift" src=".github/Swift.png" width="5%" style="vertical-align:top; margin:4px">
-
+<img alt="java" src=".github/Java.svg" width="5%" style="vertical-align:top; margin:4px">
+<img alt="dart" src=".github/Dart.svg" width="5%" style="vertical-align:top; margin:4px">
 <img alt="flutter" src=".github/Flutter.svg" width="5%" style="vertical-align:top; margin:4px">
 
-<img alt="html" src=".github/HTML.svg" width="5%" style="vertical-align:top; margin:4px">
-</div>
 <img alt="javascript" src=".github/JavaScript.svg" width="5%" style="vertical-align:top; margin:4px">
-<img alt="python" src=".github/Python.svg" width="5%" style="vertical-align:top; margin:4px">
+<img alt="typescript" src=".github/Typescript.svg" width="5%" style="vertical-align:top; margin:4px">
 <img alt="node" src=".github/Node-JS.svg" width="5%" style="vertical-align:top; margin:4px">
+<img alt="docker" src=".github/Docker.svg" width="5%" style="vertical-align:top; margin:4px">
+
+<img alt="python" src=".github/Python.svg" width="5%" style="vertical-align:top; margin:4px">
+<img alt="flask" src=".github/Flask.svg" width="5%" style="vertical-align:top; margin:4px; background:#fff;color:#fff">
+</div>
 
 
