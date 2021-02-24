@@ -1,4 +1,4 @@
-<img align='center' src="https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif" width="100">
+<img align='center' src="https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif" width="200" style="height:50">
 <br>
 
 <h2>Hi I'm Felipe Araujo! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
