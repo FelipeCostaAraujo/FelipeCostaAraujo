@@ -17,12 +17,11 @@ Back End: <strong>NONE</strong>
 
 
 ## Some knowledge in technologies
-<p align="center">
-  <img alt=".github/Swift.png" src=".github/Swift.png" width="1%">
-</p>
 
 <p align="center">
-  <img alt=".github/Swift.svg" src=".github/Swift.svg" width="10%">
+  <img alt="swift" src=".github/Swift.svg" width="10%">
+  
 </p>
+<img alt="swift" src=".github/Swift.svg" width="10%" style="vertical-align:top; margin:4px">
+<img alt="swift" src=".github/Swift.svg" width="10%" style="vertical-align:top; margin:4px">
 
-<img src=".github/Swift.png" alt="swift" style="vertical-align:top; margin:4px width=5px ">
