@@ -17,4 +17,4 @@ Back End: <strong>NONE</strong>
 
 
 ## Some knowledge in technologies
-<img src=".github/Swift.png" alt="vscode" style="vertical-align:top; margin:4px">
+<img src=".github/Swift.svg" alt="vscode" style="vertical-align:top; margin:4px">
