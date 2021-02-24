@@ -18,7 +18,7 @@ Back End: <strong>NONE</strong>
 
 ## Some knowledge in technologies
 <img alt="swift" src=".github/Swift.svg" width="5%" style="vertical-align:top; margin:4px">
-<img alt="flask" src=".github/Flask.svg" width="5%" style="vertical-align:top; margin:4px">
+<img alt="flask" src=".github/Flask.svg" width="5%" style="vertical-align:top; margin:4px; background:white">
 <img alt="flutter" src=".github/Flutter.svg" width="5%" style="vertical-align:top; margin:4px">
 <img alt="html" src=".github/HTML.svg" width="5%" style="vertical-align:top; margin:4px">
 <img alt="javascript" src=".github/JavaScript.svg" width="5%" style="vertical-align:top; margin:4px">
