@@ -20,7 +20,9 @@
 <img alt="docker" src=".github/Docker.svg" width="5%" style="vertical-align:top; margin:4px">
 
 <img alt="python" src=".github/Python.svg" width="5%" style="vertical-align:top; margin:4px">
-<img alt="flask" src=".github/Flask.jpg" width="5%" style="vertical-align:top; margin:4px; background:#fff;color:#fff">
+<img alt="flask" src=".github/Flask.jpg" width="5%" style="vertical-align:top; margin:4px;">
+
+<img alt="arduino" src=".github/Arduino.jpg" width="5%" style="vertical-align:top; margin:4px;">
 </div>
 
 
