@@ -18,11 +18,11 @@ Back End: <strong>NONE</strong>
 
 ## Some knowledge in technologies
 <p align="center">
-  <img alt=".github/Swift.png" src=".github/aircnc.png" width="1%">
+  <img alt=".github/Swift.png" src=".github/Swift.png" width="1%">
 </p>
 
 <p align="center">
-  <img alt=".github/Swift.svg" src=".github/aircnc.png" width="10%">
+  <img alt=".github/Swift.svg" src=".github/Swift.svg" width="10%">
 </p>
 
 <img src=".github/Swift.png" alt="swift" style="vertical-align:top; margin:4px width=5px ">
