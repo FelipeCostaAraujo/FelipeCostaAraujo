@@ -10,9 +10,9 @@
 
 <div>
 <img alt="swift" src=".github/Swift.png" width="5%" style="vertical-align:top; margin:4px">
-<img alt="flask" src=".github/Flask.svg" width="5%" style="vertical-align:top; margin:4px; background:white">
-</div>
+
 <img alt="flutter" src=".github/Flutter.svg" width="5%" style="vertical-align:top; margin:4px">
+</div>
 <img alt="html" src=".github/HTML.svg" width="5%" style="vertical-align:top; margin:4px">
 <img alt="javascript" src=".github/JavaScript.svg" width="5%" style="vertical-align:top; margin:4px">
 <img alt="python" src=".github/Python.svg" width="5%" style="vertical-align:top; margin:4px">
