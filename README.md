@@ -1,4 +1,7 @@
-<h2>Hi I'm Felipe Araujo! <img src="https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif" width="50"></h2>
+
+<h2>Hi I'm Felipe Araujo! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
+<img src="https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif" width="100">
+</h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 <summary><b>Things to know about me!</b> </summary>
