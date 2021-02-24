@@ -17,11 +17,12 @@ Back End: <strong>NONE</strong>
 
 
 ## Some knowledge in technologies
+<img alt="swift" src=".github/Swift.svg" width="5%" style="vertical-align:top; margin:4px">
+<img alt="flask" src=".github/Flask.svg" width="5%" style="vertical-align:top; margin:4px">
+<img alt="flutter" src=".github/Flutter.svg" width="5%" style="vertical-align:top; margin:4px">
+<img alt="html" src=".github/HTML.svg" width="5%" style="vertical-align:top; margin:4px">
+<img alt="javascript" src=".github/JavaScript.svg" width="5%" style="vertical-align:top; margin:4px">
+<img alt="python" src=".github/Python.svg" width="5%" style="vertical-align:top; margin:4px">
+<img alt="node" src=".github/Node-JS.svg" width="5%" style="vertical-align:top; margin:4px">
 
-<p align="center">
-  <img alt="swift" src=".github/Swift.svg" width="10%">
-  
-</p>
-<img alt="swift" src=".github/Swift.svg" width="10%" style="vertical-align:top; margin:4px">
-<img alt="swift" src=".github/Swift.svg" width="10%" style="vertical-align:top; margin:4px">
 
