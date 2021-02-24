@@ -4,6 +4,7 @@
 
 <summary><b>Things to know about me!</b> </summary>
 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=FelipeCostaAraujo&show_icons=true&locale=en&layout=compact" alt="FelipeAraujo" /></p>
 
 [![Github Status](https://github-readme-stats.vercel.app/api?username=FelipeCostaAraujo&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/FelipeCostaAraujo/FelipeCostaAraujo)
 
