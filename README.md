@@ -12,19 +12,8 @@
 
 <div>
 <img alt="swift" src=".github/Swift.png" width="5%" style="vertical-align:top; margin:4px">
-<img alt="java" src=".github/Java.jpg" width="5%" style="vertical-align:top; margin:4px">
 <img alt="dart" src=".github/Dart.svg" width="5%" style="vertical-align:top; margin:4px">
 <img alt="flutter" src=".github/Flutter.svg" width="5%" style="vertical-align:top; margin:4px">
-
-<img alt="javascript" src=".github/JavaScript.svg" width="5%" style="vertical-align:top; margin:4px">
-<img alt="typescript" src=".github/Typescript.svg" width="5%" style="vertical-align:top; margin:4px">
-<img alt="node" src=".github/Node-JS.jpg" width="5%" style="vertical-align:top; margin:4px">
-<img alt="docker" src=".github/Docker.svg" width="5%" style="vertical-align:top; margin:4px">
-
-<img alt="python" src=".github/Python.svg" width="5%" style="vertical-align:top; margin:4px">
-<img alt="flask" src=".github/Flask.jpg" width="5%" style="vertical-align:top; margin:4px;">
-
-<img alt="arduino" src=".github/Arduino.jpg" width="5%" style="vertical-align:top; margin:4px;">
 </div>
 
 
