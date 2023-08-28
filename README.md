@@ -1,4 +1,9 @@
 <h2>Hi I'm Felipe Araujo! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
+  <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=felipecostaaraujo&style=for-the-badge">
+  <img src="https://img.shields.io/github/followers/felipecostaaraujo?style=for-the-badge">
+  <img src="https://img.shields.io/github/stars/felipecostaaraujo?style=for-the-badge">
+</p>
 </h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
