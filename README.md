@@ -23,7 +23,7 @@ I'm a passionate mobile software developer with expertise in a variety of techno
   <img alt="Swift" src=".github/javas.png" width="5%" style="vertical-align:top; margin:4px">
   <img alt="Flutter" src=".github/Flutter.svg" width="5%" style="vertical-align:top; margin:4px">
   <img alt="Docker" src=".github/Docker.svg" width="5%" style="vertical-align:top; margin:4px">
-  <img alt="Node.js" src=".github/node-js.svg" width="5%" style="vertical-align:top; margin:4px">
+  <img alt="Node.js" src=".github/node.svg" width="5%" style="vertical-align:top; margin:4px">
   <img alt="NestJS" src=".github/NestJS.svg.png" width="5%" style="vertical-align:top; margin:4px">
   <img alt="Angular" src=".github/Angular_full_color_logo.svg.png" width="5%" style="vertical-align:top; margin:4px">
   <img alt="Ionic" src=".github/ionic-icon.svg" width="5%" style="vertical-align:top; margin:4px">
