@@ -1,10 +1,4 @@
-<h2>Hi I'm Felipe Araujo!
-  <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=felipecostaaraujo&style=for-the-badge">
-  <img src="https://img.shields.io/github/followers/felipecostaaraujo?style=for-the-badge">
-  <img src="https://img.shields.io/github/stars/felipecostaaraujo?style=for-the-badge">
-</p>
-</h2>
+<h2>Hi I'm Felipe Araujo</h2>
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
@@ -21,5 +15,11 @@
 <img alt="dart" src=".github/Dart.svg" width="5%" style="vertical-align:top; margin:4px">
 <img alt="flutter" src=".github/Flutter.svg" width="5%" style="vertical-align:top; margin:4px">
 </div>
+
+ <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=felipecostaaraujo&style=for-the-badge">
+  <img src="https://img.shields.io/github/followers/felipecostaaraujo?style=for-the-badge">
+  <img src="https://img.shields.io/github/stars/felipecostaaraujo?style=for-the-badge">
+</p>
 
 
