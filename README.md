@@ -20,7 +20,7 @@ I'm a passionate mobile software developer with expertise in a variety of techno
 
 <div>
   <img alt="Swift" src=".github/Swift.png" width="5%" style="vertical-align:top; margin:4px">
-  <img alt="Dart" src=".github/Dart.svg" width="5%" style="vertical-align:top; margin:4px">
+  <img alt="Swift" src=".github/javas.png" width="5%" style="vertical-align:top; margin:4px">
   <img alt="Flutter" src=".github/Flutter.svg" width="5%" style="vertical-align:top; margin:4px">
   <img alt="Docker" src=".github/Docker.svg" width="5%" style="vertical-align:top; margin:4px">
   <img alt="Node.js" src=".github/node-js.svg" width="5%" style="vertical-align:top; margin:4px">
