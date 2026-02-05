@@ -37,4 +37,3 @@ Construo aplicações que conectam o mundo físico ao digital, com forte experti
 ## Contato
 
 - [LinkedIn](https://www.linkedin.com/in/felipe-costa-araújo-8804a3100/)
-- [GitHub](https://github.com/FelipeCostaAraujo)
